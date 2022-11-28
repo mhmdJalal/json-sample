@@ -1,0 +1,40 @@
+{
+  "kandang_aktif": [
+  {
+    "nama_kandang": "Kandang Bangkit",
+    "alamat_kandang": "Kota Jakarta Utara",
+    "status_aktif": true,
+    "client_name": null,
+    "jenis_peternak": "MANDIRI",
+    "periode": "Periode 5",
+    "umur": "21 Hari",
+    "populasi": "23.000 Ekor",
+    "body_weight": "840 gr",
+    "jenis_kandang": "Open House",
+    "tanggal_doc": "21 Des 2021"
+  },
+  {
+    "nama_kandang": "Kandang Kita Jaya 01",
+    "alamat_kandang": "Kota Semarang",
+    "status_aktif": true,
+    "client_name": "Agrinis",
+    "jenis_peternak": "PLASMA",
+    "periode": "Periode 5",
+    "umur": "21 Hari",
+    "populasi": "23.000 Ekor",
+    "body_weight": "840 gr",
+    "jenis_kandang": "Close House",
+    "tanggal_doc": "21 Des 2021"
+  }
+],
+  "kandang_rehat": [
+  {
+    "nama_kandang": "Kandang Bangkit 2",
+    "alamat_kandang": "Kota Jakarta Utara",
+    "status_aktif": false,
+    "client_name": null,
+    "jenis_peternak": "MANDIRI",
+    "periode": "5 Periode"
+  }
+]
+}
